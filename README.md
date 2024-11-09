@@ -1,7 +1,7 @@
 # What is this repo?
 This will be a repository that will be taken down/privated when we are done with the mod. This will be uploaded to the 2fast2cool repository of the mod later.
 
-![Logo](https://www.dropbox.com/scl/fi/t4o0dulfkqfpjanme87au/Umm12Logos.png?rlkey=rbj0zi01it0oschdzhf9fo2b6&st=znhu5kjn&dl=1)
+![Logo](https://www.dropbox.com/scl/fi/t4o0dulfkqfpjanme87au/Umm12Logos.png?rlkey=rbj0zi01it0oschdzhf9fo2b6&st=8u51cda7&dl=1)
 
 
 ## FAQ
